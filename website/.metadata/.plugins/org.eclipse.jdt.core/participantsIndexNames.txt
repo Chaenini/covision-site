@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Covision\website\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1927182822.index
+\mysite\src
